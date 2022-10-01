@@ -1,0 +1,33 @@
+[
+  [
+    {
+      "id": "0",
+      "type": "Npc",
+      "start": true,
+      "position": { "x": 415.55339324044644, "y": 501.63111252586975 },
+      "size": { "width": "250", "height": "100" },
+      "title": "Narrator",
+      "text": "Wow what an interesting conversation!",
+      "data": []
+    },
+    {
+      "id": "3",
+      "type": "Player",
+      "position": { "x": 958.8132477169396, "y": 503.5607530831909 },
+      "size": { "width": "250", "height": "100" },
+      "title": "Narrator",
+      "text": "It's almost like I'm talking to myself",
+      "data": []
+    },
+    {
+      "id": "1",
+      "type": "Random",
+      "position": { "x": 780.013764082403, "y": 580.5931464569924 },
+      "number": 1
+    }
+  ],
+  [
+    { "source": "0", "sourceHandle": "out", "target": "1", "targetHandle": "in" },
+    { "source": "1", "sourceHandle": "out", "target": "3", "targetHandle": "in" }
+  ]
+]
