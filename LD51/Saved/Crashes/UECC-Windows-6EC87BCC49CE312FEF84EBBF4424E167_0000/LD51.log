@@ -1,0 +1,1222 @@
+﻿Log file open, 10/02/22 16:08:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=11888)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: LD51
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\GameJams\LD51\LD51\LD51.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.2006] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="b116ea6f4f6f3b8afcc5bfacea34b2fc"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.473436
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-6EC87BCC49CE312FEF84EBBF4424E167
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.19 seconds
+LogConfig: Display: Loading Android ini files took 0.22 seconds
+LogConfig: Display: Loading IOS ini files took 0.08 seconds
+LogConfig: Display: Loading Linux ini files took 0.09 seconds
+LogConfig: Display: Loading Mac ini files took 0.07 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.14 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.04 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin DialogueSx
+LogPluginManager: Mounting Engine plugin LDAssistant
+LogPluginManager: Mounting Engine plugin TypewriterPlugin
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Marketplace/DialogueSystemX/Content/' mounted to '/DialogueSx/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Marketplace/LDAssistant/Content/' mounted to '/LDAssistant/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Marketplace/TypewriterPlugin/Content/' mounted to '/TypewriterPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.2006] (), CPU: Intel(R) Core(TM) i3-8100 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.02-15.08.27:971][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.02-15.08.27:971][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.02-15.08.27:971][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.02-15.08.27:976][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.02-15.08.27:976][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.02-15.08.27:976][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.02-15.08.27:976][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.02-15.08.27:976][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.02-15.08.27:976][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.02-15.08.27:976][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.02-15.08.27:976][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.02-15.08.27:976][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.02-15.08.27:976][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.02-15.08.27:976][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.02-15.08.28:413][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.02-15.08.28:413][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.02-15.08.28:873][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1060 6GB (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.02-15.08.28:873][  0]LogD3D12RHI: Adapter has 6052MB of dedicated video memory, 0MB of dedicated system memory, and 8160MB of shared system memory, 2 output[s]
+[2022.10.02-15.08.28:884][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.02-15.08.28:884][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8160MB of shared system memory, 0 output[s]
+[2022.10.02-15.08.28:884][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.02-15.08.28:884][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.02-15.08.28:884][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.02-15.08.28:884][  0]LogHAL: Display: Platform has ~ 16 GB [17113337856 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.02-15.08.28:884][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.02-15.08.28:884][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.02-15.08.28:884][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.02-15.08.28:922][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.02-15.08.28:922][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GameJams/LD51/LD51/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.02-15.08.28:922][  0]LogInit: Computer: DESKTOP-IOQVHNE
+[2022.10.02-15.08.28:922][  0]LogInit: User: LewisArnold
+[2022.10.02-15.08.28:922][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.10.02-15.08.28:922][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.02-15.08.28:922][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.10.02-15.08.28:922][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.02-15.08.28:922][  0]LogMemory: Process Physical Memory: 259.08 MB used, 269.04 MB peak
+[2022.10.02-15.08.28:922][  0]LogMemory: Process Virtual Memory: 187.52 MB used, 187.52 MB peak
+[2022.10.02-15.08.28:922][  0]LogMemory: Physical Memory: 7075.80 MB used,  9244.75 MB free, 16320.55 MB total
+[2022.10.02-15.08.28:922][  0]LogMemory: Virtual Memory: 12659.59 MB used,  10572.96 MB free, 23232.55 MB total
+[2022.10.02-15.08.28:922][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.02-15.08.28:929][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.02-15.08.29:599][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.02-15.08.29:602][  0]LogInit: Using OS detected language (en-GB).
+[2022.10.02-15.08.29:602][  0]LogInit: Using OS detected locale (en-GB).
+[2022.10.02-15.08.29:802][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2022.10.02-15.08.31:083][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.02-15.08.31:187][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.02-15.08.31:187][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.10.02-15.08.31:187][  0]LogWindowsTextInputMethodSystem:   - Japanese (Japan) - Microsoft IME (TSF IME).
+[2022.10.02-15.08.31:187][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - Touch Input Correction (TSF IME).
+[2022.10.02-15.08.31:187][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2022.10.02-15.08.31:949][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.02-15.08.31:949][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.02-15.08.40:513][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.02-15.08.40:518][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.10.02-15.08.40:518][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.02-15.08.40:623][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.10.02-15.08.40:623][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.10.02-15.08.40:623][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.02-15.08.40:623][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.02-15.08.40:623][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.02-15.08.40:623][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.02-15.08.40:623][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.02-15.08.40:623][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.02-15.08.40:623][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.02-15.08.40:623][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.10.02-15.08.40:623][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.10.02-15.08.40:623][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.10.02-15.08.40:623][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.10.02-15.08.40:623][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.10.02-15.08.40:688][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.02-15.08.40:695][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.02-15.08.40:707][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.02-15.08.40:713][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.02-15.08.40:713][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.02-15.08.40:920][  0]LogD3D12RHI: Warning: Ray tracing is disabled for NVIDIA cards with the Pascal architecture.
+[2022.10.02-15.08.40:920][  0]LogD3D12RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.02-15.08.40:920][  0]LogWindows: Attached monitors:
+[2022.10.02-15.08.40:920][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.10.02-15.08.40:920][  0]LogWindows:     resolution: 1080x1920, work area: (-1080, -822) -> (0, 1058), device: '\\.\DISPLAY2'
+[2022.10.02-15.08.40:920][  0]LogWindows: Found 2 attached monitors.
+[2022.10.02-15.08.40:920][  0]LogWindows: EnumDisplayDevices:
+[2022.10.02-15.08.40:920][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.10.02-15.08.40:921][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.10.02-15.08.40:921][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.02-15.08.40:921][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.02-15.08.40:921][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.10.02-15.08.40:921][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2022.10.02-15.08.40:921][  0]LogD3D12RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.10.02-15.08.40:921][  0]LogD3D12RHI:      Driver Date: 3-17-2022
+[2022.10.02-15.08.40:921][  0]LogRHI: Texture pool is 3328 MB (70% of 4755 MB)
+[2022.10.02-15.08.40:921][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.02-15.08.40:921][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.02-15.08.40:935][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.10.02-15.08.44:035][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 1060 6GB
+Installed: 512.15
+Recommended: 516.25
+[2022.10.02-15.08.44:207][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/GameJams/LD51/LD51/LD51.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/GameJams/LD51/LD51/Intermediate/TurnkeyReport_0.log" -log="D:/GameJams/LD51/LD51/Intermediate/TurnkeyLog_0.log" -project="D:/GameJams/LD51/LD51/LD51.uproject"  -platform=all'
+[2022.10.02-15.08.44:207][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/GameJams/LD51/LD51/LD51.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/GameJams/LD51/LD51/Intermediate/TurnkeyReport_0.log" -log="D:/GameJams/LD51/LD51/Intermediate/TurnkeyLog_0.log" -project="D:/GameJams/LD51/LD51/LD51.uproject"  -platform=all" ]
+[2022.10.02-15.08.44:647][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.02-15.08.44:848][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.02-15.08.44:848][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.02-15.08.44:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.02-15.08.44:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.02-15.08.44:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.02-15.08.44:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.02-15.08.44:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.02-15.08.44:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.02-15.08.44:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.02-15.08.44:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.02-15.08.44:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.02-15.08.44:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.02-15.08.45:060][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.02-15.08.45:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.02-15.08.45:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.02-15.08.45:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.02-15.08.45:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.02-15.08.45:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.10.02-15.08.45:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.02-15.08.45:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.02-15.08.45:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.10.02-15.08.45:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.10.02-15.08.45:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.10.02-15.08.45:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.02-15.08.45:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.02-15.08.45:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.02-15.08.45:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.02-15.08.45:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.02-15.08.45:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.02-15.08.45:317][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.02-15.08.45:588][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.02-15.08.45:630][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.02-15.08.45:630][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.02-15.08.45:630][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.02-15.08.45:630][  0]LogTargetPlatformManager:   PCM
+[2022.10.02-15.08.45:761][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.02-15.08.45:761][  0]LogTargetPlatformManager:   BINKA
+[2022.10.02-15.08.45:761][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.02-15.08.45:761][  0]LogTargetPlatformManager:   OGG
+[2022.10.02-15.08.45:761][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.02-15.08.45:761][  0]LogTargetPlatformManager:   OPUS
+[2022.10.02-15.08.47:158][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager:   SF_METAL
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.10.02-15.08.47:246][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.10.02-15.08.47:407][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.10.02-15.08.47:407][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.10.02-15.08.47:407][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.10.02-15.08.47:407][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.10.02-15.08.47:407][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.10.02-15.08.47:407][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.10.02-15.08.47:407][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.10.02-15.08.47:407][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.02-15.08.47:408][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../GameJams/LD51/LD51/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.02-15.08.47:429][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.02-15.08.47:429][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../GameJams/LD51/LD51/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.02-15.08.47:435][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.02-15.08.47:438][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../GameJams/LD51/LD51/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.02-15.08.47:438][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.02-15.08.47:438][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../GameJams/LD51/LD51/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.02-15.08.47:438][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.02-15.08.47:599][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.10.02-15.08.47:599][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.02-15.08.47:599][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.02-15.08.47:673][  0]LogDerivedDataCache: Speed tests for C:/Users/Lewis Arnold/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.07 seconds
+[2022.10.02-15.08.47:673][  0]LogDerivedDataCache: Display: Performance to C:/Users/Lewis Arnold/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.53ms. RandomReadSpeed=15.31MBs, RandomWriteSpeed=163.82MBs. Assigned SpeedClass 'Local'
+[2022.10.02-15.08.47:674][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lewis Arnold/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.02-15.08.47:674][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.02-15.08.47:674][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.02-15.08.47:686][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.02-15.08.47:686][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.02-15.08.47:686][  0]LogShaderCompilers: Guid format shader working directory is 22 characters bigger than the processId version (../../../../GameJams/LD51/LD51/Intermediate/Shaders/WorkingDirectory/12632/).
+[2022.10.02-15.08.47:687][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lewis Arnold/AppData/Local/Temp/UnrealShaderWorkingDir/0470115C409242F5F229E4A179038324/'.
+[2022.10.02-15.08.47:687][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.02-15.08.47:687][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 3 workers.
+[2022.10.02-15.09.00:831][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.02-15.09.00:831][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.02-15.09.00:873][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.02-15.09.01:628][  0]LogAssetRegistry: FAssetRegistry took 0.0146 seconds to start up
+[2022.10.02-15.09.01:637][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.02-15.09.01:923][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.02-15.09.01:924][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.10.02-15.09.02:272][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.02-15.09.02:273][  0]LogDeviceProfileManager: Active device profile: [00000B034C876040][00000B0346AC0000 50] WindowsEditor
+[2022.10.02-15.09.02:273][  0]LogDeviceProfileManager: Profiles: [00000B034C875B00][00000B0336725000 50] Windows, [00000B034C876040][00000B0346AC0000 50] WindowsEditor, [00000B034C8739C0][00000B0346A7A000 50] WindowsServer, [00000B034C872300][00000B034CA90000 50] WindowsClient, [00000B034C876200][00000B034CA95000 50] IOS, [00000B034C876900][00000B034CA97800 50] iPadAir2, [00000B034C874600][00000B034CA9C800 50] IPadPro, [00000B034C871340][00000B034CA9A000 50] iPadAir3, [00000B034C871F80][00000B0343082800 50] iPadAir4, [00000B034C875780][00000B034CA80000 50] iPadMini4, [00000B034C8747C0][00000B034CA85000 50] iPadMini5, [00000B034C871180][00000B034CA87800 50] iPadMini6, [00000B034C8794C0][00000B034CA92800 50] iPhone6S, [00000B034C879840][00000B034CA8C800 50] iPhone7, [00000B034C879BC0][00000B034CA8A000 50] iPodTouch7, [00000B034C879300][00000B034CB00000 50] iPhone6SPlus, [00000B034C877C40][00000B034CB05000 50] iPhone7Plus, [00000B034C878340][00000B034CB07800 50] iPhoneSE, [00000B034C876740][00000B034CB0A000 50] iPhone8, [00000B034C873100][00000B034CB0C800 50] iPhone8Plus, [00000B034C878180][00000B034CA82800 50] iPhoneX, [00000B034C876580][00000B034CB20000 50] iPhoneXS, [00000B034C8732C0][00000B034CB25000 50] iPhoneXSMax, [00000B034C874D00][00000B034CB27800 50] iPhoneXR, [00000B034C877E00][00000B034CB2A000 50] iPhone11, [00000B034C871880][00000B034CB2C800 50] iPhone11Pro, [00000B034C872A00][00000B034CB02800 50] iPhone11ProMax, [00000B034C872BC0][00000B034CB30000 50] iPhoneSE2, [00000B034C878A40][00000B034CB35000 50] iPhone12Mini, [00000B034C879140][00000B034CB37800 50] iPhone12, [00000B034C873B80][00000B034CB3A000 50] iPhone12Pro, [00000B034C877FC0][00000B034CB3C800 50] iPhone12ProMax, [00000B034C873F00][00000B034CB22800 50] iPhone13Mini, [00000B034C876E40][00000B034CB40000 50] iPhone13, [00000B034C872140][00000B034CB45000 50] iPhone13Pro, [00000B034C878F80][00000B034CB47800 50] iPhone13ProMax, [00000B034C8724C0][00000B034CB4A000 50] iPadPro105, [00000B034C878C00][00000B034CB4C800 50] iPadPro129, [00000B034C874B40][00000B034CB32800 50] iPadPro97, [00000B034C877380][00000B034CB50000 50] iPadPro2_129, [00000B034C873D40][00000B034CB55000 50] iPad5, [00000B034C8716C0][00000B034CB57800 50] iPad6, [00000B034C875400][00000B034CB5A000 50] iPad7, [00000B034C877700][00000B034CB5C800 50] iPad8, [00000B034C871500][00000B034CB42800 50] iPad9, [00000B034C874440][00000B034CB60000 50] iPadPro11, [00000B034C876C80][00000B034CB65000 50] iPadPro2_11, [00000B034C873640][00000B034CB67800 50] iPadPro3_11, [00000B034C875E80][00000B034CB6A000 50] iPadPro3_129, [00000B034C877A80][00000B034CB6C800 50] iPadPro4_129, [00000B034C875940][00000B034CB52800 50] iPadPro5_129, [00000B034C873480][00000B034CB70000 50] AppleTV, [00000B034C874980][00000B034CB75000 50] AppleTV4K, [00000B034C872680][00000B034CB77800 50] TVOS, [00000B034C87B440][00000B034CB7C800 50] Mac, [00000B034C87B7C0][00000B034CB7A000 50] MacEditor, [00000B034C8740C0][00000B034CB62800 50] MacClient, [00000B034C87B600][00000B034CB80000 50] MacServer, [00000B034C877000][00000B034CB87800 50] Linux, [00000B034C87BEC0][00000B034CB85000 50] LinuxEditor, [00000B034C879A00][00000B034CB8A000 50] LinuxArm64Editor, [00000B034C879F40][00000B034CB8C800 50] LinuxArm64, [00000B034C87B0C0][00000B034CB72800 50] LinuxClient, [00000B034C87C240][00000B034CB90000 50] LinuxArm64Client, [00000B034C8771C0][00000B034CB95000 50] LinuxServer, [00000B034C8763C0][00000B034CB97800 50] LinuxArm64Server, [00000B034C875080][00000B034CB9A000 50] Android, [00000B034C87BB40][00000B034CB9C800 50] Android_Preview_OpenGL, [00000B034C871A40][00000B034CB82800 50] Android_Preview_Vulkan, [00000B034C872D80][00000B034CBA0000 50] Android_Low, [00000B034C8755C0][00000B034CBA5000 50] Android_Mid, [00000B034C87B980][00000B034CBA7800 50] Android_High, [00000B034C87AD40][00000B034CBAA000 50] Android_Default, [00000B034C87C780][00000B034CBAC800 50] Android_Adreno4xx, [00000B034C87A640][00000B034CB92800 50] Android_Adreno5xx_Low, [00000B034C877540][00000B034CBB0000 50] Android_Adreno5xx, [00000B034C874EC0][00000B034CBB5000 50] Android_Adreno6xx, [00000B034C87A100][00000B034CBB7800 50] Android_Adreno6xx_Vulkan, [00000B034C87BD00][00000B034CBBA000 50] Android_Adreno7xx, [00000B034C878500][00000B034CBBC800 50] Android_Adreno7xx_Vulkan, [00000B034C87C5C0][00000B034CBA2800 50] Android_Mali_T6xx, [00000B034C879680][00000B034CBC0000 50] Android_Mali_T7xx, [00000B034C87C940][00000B034CBC5000 50] Android_Mali_T8xx, [00000B034C87A800][00000B034CBC7800 50] Android_Mali_G71, [00000B034C8778C0][00000B034CBCA000 50] Android_Mali_G72, [00000B034C87CCC0][00000B034CBCC800 50] Android_Mali_G72_Vulkan, [00000B034C87AB80][00000B034CBB2800 50] Android_Mali_G76, [00000B034C87D3C0][00000B034CB10000 50] Android_Mali_G76_Vulkan, [00000B034C871C00][00000B034CB15000 50] Android_Mali_G77, [00000B034C875240][00000B034CB17800 50] Android_Mali_G77_Vulkan, [00000B034C878880][00000B034CB1A000 50] Android_Mali_G78, [00000B034C87D580][00000B034CB1C800 50] Android_Mali_G78_Vulkan, [00000B034C87AF00][00000B034CBC2800 50] Android_Mali_G710, [00000B034C87D200][00000B034CBD0000 50] Android_Mali_G710_Vulkan, [00000B034C87B280][00000B034CBD5000 50] Android_Xclipse_920, [00000B034C87E380][00000B034CBD7800 50] Android_Xclipse_920_Vulkan, [00000B034C87C080][00000B034CBDA000 50] Android_Vulkan_SM5, [00000B034C871DC0][00000B034CBDC800 50] Android_PowerVR_G6xxx, [00000B034C87A480][00000B034CB12800 50] Android_PowerVR_GT7xxx, [00000B034C87DAC0][00000B034CBE0000 50] Android_PowerVR_GE8xxx, [00000B034C8786C0][00000B034CBE5000 50] Android_PowerVR_GM9xxx, [00000B034C87E1C0][00000B034CBE7800 50] Android_PowerVR_GM9xxx_Vulkan, [00000B034C87DC80][00000B034CBEA000 50] Android_TegraK1, [00000B034C87F340][00000B034CBEC800 50] Android_Unknown_Vulkan, [00000B034C874280][00000B034CBD2800 50] Oculus_Quest, [00000B034C87EA80][00000B034CBF0000 50] Oculus_Quest2, [00000B034C879D80][00000B034CBF5000 50] HoloLens, 
+[2022.10.02-15.09.02:273][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.02-15.09.03:238][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.02-15.09.04:173][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_ValidHostPrerequisites")
+[2022.10.02-15.09.04:173][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.10.02-15.09.04:173][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.02-15.09.04:173][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.02-15.09.04:173][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="Platform_ValidHostPrerequisites")
+[2022.10.02-15.09.06:289][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.02-15.09.06:289][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.02-15.09.06:289][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.02-15.09.06:289][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.02-15.09.06:289][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.02-15.09.06:903][  0]LogNetVersion: LD51 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 369894302)
+[2022.10.02-15.09.10:825][  0]LogSlate: Border
+[2022.10.02-15.09.10:825][  0]LogSlate: BreadcrumbButton
+[2022.10.02-15.09.10:825][  0]LogSlate: Default
+[2022.10.02-15.09.10:825][  0]LogSlate: Icons.Save
+[2022.10.02-15.09.10:825][  0]LogSlate: Icons.Toolbar.Settings
+[2022.10.02-15.09.10:825][  0]LogSlate: ListView
+[2022.10.02-15.09.10:825][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.10.02-15.09.10:825][  0]LogSlate: SoftwareCursor_Grab
+[2022.10.02-15.09.10:825][  0]LogSlate: TableView.DarkRow
+[2022.10.02-15.09.10:825][  0]LogSlate: TableView.Row
+[2022.10.02-15.09.10:825][  0]LogSlate: TreeView
+[2022.10.02-15.09.20:298][  0]SourceControl: Source control is disabled
+[2022.10.02-15.09.20:728][  0]SourceControl: Source control is disabled
+[2022.10.02-15.09.20:728][  0]SourceControl: Source control is disabled
+[2022.10.02-15.09.21:674][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.10.02-15.09.21:674][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.10.02-15.09.21:674][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.02-15.09.31:526][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: DDB6B3154FBEF8E30CA386B7DA58C196 | Instance: 8DB3601344B9A686D6E22BA9DC0808DC (DESKTOP-IOQVHNE-12632).
+[2022.10.02-15.09.33:335][  0]LogPython: Using Python 3.9.7
+[2022.10.02-15.09.38:438][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.02-15.09.38:519][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.02-15.09.41:073][  0]SourceControl: Source control is disabled
+[2022.10.02-15.09.41:200][  0]SourceControl: Source control is disabled
+[2022.10.02-15.09.41:472][  0]SourceControl: Source control is disabled
+[2022.10.02-15.09.41:662][  0]LogUProjectInfo: Found projects:
+[2022.10.02-15.09.50:379][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.02-15.09.51:811][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.02-15.09.52:413][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.02-15.09.52:413][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.02-15.09.54:581][  0]LogCollectionManager: Loaded 0 collections in 0.000948 seconds
+[2022.10.02-15.09.56:821][  0]LogFileCache: Scanning file cache for directory 'D:/GameJams/LD51/LD51/Saved/Collections/' took 0.00s
+[2022.10.02-15.09.56:821][  0]LogFileCache: Scanning file cache for directory 'D:/GameJams/LD51/LD51/Content/Developers/LewisArnold/Collections/' took 0.00s
+[2022.10.02-15.09.56:821][  0]LogFileCache: Scanning file cache for directory 'D:/GameJams/LD51/LD51/Content/Collections/' took 0.00s
+[2022.10.02-15.09.58:196][  0]LogClass: Display: IntProperty FEdgeStruct::Source is not initialized properly. Module:DialogueSx File:Public/Data/Data.h
+[2022.10.02-15.09.58:196][  0]LogClass: Display: IntProperty FEdgeStruct::Target is not initialized properly. Module:DialogueSx File:Public/Data/Data.h
+[2022.10.02-15.09.58:196][  0]LogClass: Display: IntProperty FEdgeStruct::TargetHandle is not initialized properly. Module:DialogueSx File:Public/Data/Data.h
+[2022.10.02-15.09.58:196][  0]LogClass: Display: 3 Uninitialized script struct members found including 0 object properties
+[2022.10.02-15.09.58:208][  0]LogEngine: Initializing Engine...
+[2022.10.02-15.09.58:227][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.10.02-15.09.58:249][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.10.02-15.10.02:331][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.02-15.10.02:331][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.02-15.10.02:820][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.02-15.10.03:263][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.02-15.10.03:264][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.02-15.10.03:686][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.02-15.10.03:688][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.02-15.10.03:688][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.02-15.10.03:689][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.02-15.10.03:689][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.02-15.10.03:689][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.02-15.10.03:689][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.02-15.10.03:689][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.02-15.10.03:689][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.02-15.10.03:689][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.02-15.10.03:689][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.02-15.10.03:689][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.02-15.10.03:689][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.02-15.10.03:690][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.02-15.10.03:690][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.02-15.10.03:690][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.02-15.10.03:778][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.02-15.10.03:858][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.02-15.10.03:859][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.02-15.10.03:862][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.02-15.10.03:862][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.02-15.10.03:865][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.02-15.10.03:865][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.02-15.10.03:870][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.02-15.10.03:870][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.02-15.10.03:870][  0]LogInit: FAudioDevice initialized.
+[2022.10.02-15.10.03:870][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.02-15.10.03:870][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.02-15.10.03:870][  0]LogInit: Texture streaming: Enabled
+[2022.10.02-15.10.04:592][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.10.02-15.10.04:663][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.02-15.10.04:765][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.02-15.10.04:874][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.02-15.10.04:874][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.02-15.10.33:046][  0]LogLiveCoding: Display: First instance in process group "UE_LD51_0x49ebbfcb", spawning console
+[2022.10.02-15.10.33:046][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.02-15.10.33:046][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.02-15.10.33:092][  0]LogInit: Transaction tracking system initialized
+[2022.10.02-15.10.34:396][  0]BlueprintLog: New page: Editor Load
+[2022.10.02-15.10.35:247][  0]LocalizationService: Localization service is disabled
+[2022.10.02-15.10.35:415][  0]TimingProfiler: Initialize
+[2022.10.02-15.10.35:415][  0]TimingProfiler: OnSessionChanged
+[2022.10.02-15.10.35:415][  0]LoadingProfiler: Initialize
+[2022.10.02-15.10.35:416][  0]LoadingProfiler: OnSessionChanged
+[2022.10.02-15.10.35:416][  0]NetworkingProfiler: Initialize
+[2022.10.02-15.10.35:416][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.02-15.10.35:416][  0]MemoryProfiler: Initialize
+[2022.10.02-15.10.35:416][  0]MemoryProfiler: OnSessionChanged
+[2022.10.02-15.10.41:510][  0]LogFileCache: Scanning file cache for directory 'D:/GameJams/LD51/LD51/Content/' took 0.03s
+[2022.10.02-15.10.41:510][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.10.02-15.10.41:956][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.02-15.10.41:958][  0]SourceControl: Source control is disabled
+[2022.10.02-15.10.41:958][  0]LogUnrealEdMisc: Loading editor; pre map load, took 175.502
+[2022.10.02-15.10.41:958][  0]Cmd: MAP LOAD FILE="../../../../GameJams/LD51/LD51/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.02-15.10.41:958][  0]LightingResults: New page: Lighting Build
+[2022.10.02-15.10.41:969][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.02-15.10.41:969][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.02-15.10.41:969][  0]MapCheck: New page: Map Check
+[2022.10.02-15.10.41:969][  0]LightingResults: New page: Lighting Build
+[2022.10.02-15.10.41:979][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.02-15.10.41:982][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.10.02-15.10.42:011][  0]LogGameplayTags: Warning: [AssetLog] D:\GameJams\LD51\LD51\Content\StateObjects.uasset: Invalid GameplayTag False found in property /Game/StateObjects.StateObjects:Tag_5_2A557D5B48C2644D09C291BD5A00635A.
+[2022.10.02-15.10.42:011][  0]LogGameplayTags: Warning: [AssetLog] D:\GameJams\LD51\LD51\Content\StateObjects.uasset: Invalid GameplayTag False found in object StateObjects.
+[2022.10.02-15.10.42:012][  0]LogGameplayTags: Warning: [AssetLog] D:\GameJams\LD51\LD51\Content\StateManagaer.uasset: Invalid GameplayTag False found in object K2Node_MakeStruct_0.
+[2022.10.02-15.10.42:158][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2022.10.02-15.10.42:170][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.02-15.10.42:171][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2022.10.02-15.10.42:172][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.02-15.10.42:172][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.02-15.10.42:222][  0]LogMaterial: Display: Missing cached shadermap for MI_PrototypeGrid_TopDark in PCD3D_SM5, Default, SM5 (DDC key hash: BDF9C584293D1372751E5231569619B841C3C3C2), compiling. 
+[2022.10.02-15.10.42:398][  0]LogMaterial: Display: Missing cached shadermap for MI_PrototypeGrid_Gray in PCD3D_SM5, Default, SM5 (DDC key hash: CC0F355FFD3930EDDAB18FC8FF90C55FBE9E5DEB), compiling. 
+[2022.10.02-15.10.42:589][  0]LogBlueprint: Warning: [AssetLog] D:\GameJams\LD51\LD51\Content\FirstPerson\Blueprints\BP_Rifle.uasset: [Compiler] Could not find a variable named "FirstPersonMesh" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get FirstPersonMesh
+[2022.10.02-15.10.42:590][  0]LogBlueprint: Warning: [AssetLog] D:\GameJams\LD51\LD51\Content\FirstPerson\Blueprints\BP_Rifle.uasset: [Compiler] Could not find a variable named "FirstPersonMesh" in 'BP_FirstPersonCharacter_C'.
+Make sure 'BP_FirstPersonCharacter_C' has been compiled for  Get FirstPersonMesh
+[2022.10.02-15.10.42:717][  0]LogBlueprint: Error: [AssetLog] D:\GameJams\LD51\LD51\Content\FirstPerson\Blueprints\BP_Rifle.uasset: [Compiler] The property associated with  First Person Mesh  could not be found in '/Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle_C'
+[2022.10.02-15.10.42:718][  0]LogBlueprint: Error: [AssetLog] D:\GameJams\LD51\LD51\Content\FirstPerson\Blueprints\BP_Rifle.uasset: [Compiler] The property associated with  First Person Mesh  could not be found in '/Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle_C'
+[2022.10.02-15.10.43:246][  0]LogWorldPartition: Display: WorldPartition initialize took 1.07 sec
+[2022.10.02-15.10.43:253][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.02-15.10.43:264][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.10.02-15.10.43:264][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.02-15.10.43:264][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.228ms to complete.
+[2022.10.02-15.10.43:264][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 1.307
+[2022.10.02-15.10.43:325][  0]LogUnrealEdMisc: Total Editor Startup Time, took 176.870
+[2022.10.02-15.10.43:325][  0]LogShaderCompilers: Display: ================================================
+[2022.10.02-15.10.43:325][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.02-15.10.43:325][  0]LogShaderCompilers: Display: Total job queries 100, among them cache hits 0 (0.00%)
+[2022.10.02-15.10.43:325][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.02-15.10.43:325][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.02-15.10.43:325][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.02-15.10.43:325][  0]LogShaderCompilers: Display: Shaders Compiled: 100
+[2022.10.02-15.10.43:325][  0]LogShaderCompilers: Display: Jobs assigned 30, completed 0 (0.00%)
+[2022.10.02-15.10.43:325][  0]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.07 s
+[2022.10.02-15.10.43:325][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.02-15.10.43:325][  0]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 10.00 jobs/batch
+[2022.10.02-15.10.43:326][  0]LogShaderCompilers: Display: ================================================
+[2022.10.02-15.10.43:538][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\Widget\W-Vector.uasset: [Compiler] On Clicked (MyButton)  does not have a valid matching component!
+[2022.10.02-15.10.43:799][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Get Level Viewport Camera Info : Usage of 'Get Level Viewport Camera Info' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Unreal Editor Subsystem
+[2022.10.02-15.10.43:801][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Destroy Actor : Usage of 'Destroy Actor' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:803][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Set Selected Level Actors : Usage of 'Set Selected Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:803][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Get Selected Level Actors : Usage of 'Get Selected Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:803][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Set Selected Level Actors : Usage of 'Set Selected Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:803][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Select Nothing : Usage of 'Select Nothing' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:805][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Set Selected Level Actors : Usage of 'Set Selected Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:807][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Set Selected Level Actors : Usage of 'Set Selected Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:807][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Destroy Actor : Usage of 'Destroy Actor' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:808][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Set Selected Level Actors : Usage of 'Set Selected Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:808][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Set Selected Level Actors : Usage of 'Set Selected Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:808][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Set Selected Level Actors : Usage of 'Set Selected Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:809][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Destroy Actor : Usage of 'Destroy Actor' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:812][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Set Selected Level Actors : Usage of 'Set Selected Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:812][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Set Selected Level Actors : Usage of 'Set Selected Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:812][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Set Selected Level Actors : Usage of 'Set Selected Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:815][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Get All Level Actors : Usage of 'Get All Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:816][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Get All Level Actors : Usage of 'Get All Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:817][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Set Selected Level Actors : Usage of 'Set Selected Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:817][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Set Selected Level Actors : Usage of 'Set Selected Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.43:818][  0]LogBlueprint: Warning: [AssetLog] D:\UE_5.0\Engine\Plugins\Marketplace\LDAssistant\Content\LDAssistant.uasset: [Compiler] Set Selected Level Actors : Usage of 'Set Selected Level Actors' has been deprecated. The Editor Scripting Utilities Plugin is deprecated - Use the function in Editor Actor Utilities Subsystem
+[2022.10.02-15.10.44:560][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-15.10.44:569][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-15.10.44:577][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-15.10.44:586][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.02-15.10.45:106][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.10.02-15.10.45:106][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.02-15.10.45:210][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.10.02-15.10.45:210][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.02-15.10.45:242][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.10.02-15.10.45:242][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.02-15.10.45:301][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.10.02-15.10.45:301][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.02-15.10.45:348][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.10.02-15.10.45:348][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.02-15.10.45:362][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.10.02-15.10.45:362][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.02-15.10.45:378][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.10.02-15.10.45:378][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.02-15.10.45:456][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.10.02-15.10.45:456][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.02-15.10.45:490][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.10.02-15.10.45:490][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.02-15.10.45:521][  0]LogPakFile: Display: Mounted Pak file 'D:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.10.02-15.10.45:521][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.02-15.10.45:522][  0]LogFeaturePack: Error: Error in Feature pack D:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.10.02-15.10.47:706][  0]LogSlate: Took 0.021706 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.02-15.10.47:725][  0]LogSlate: Took 0.017328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.02-15.10.47:741][  0]LogSlate: Took 0.013403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.02-15.10.47:760][  0]LogSlate: Took 0.017680 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.02-15.10.47:820][  0]LogViewport: Scene viewport resized to 1003x902, mode Windowed.
+[2022.10.02-15.10.48:470][  0]LogDerivedDataCache: C:/Users/Lewis Arnold/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.160 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.02-15.10.48:959][  0]LogStall: Startup...
+[2022.10.02-15.10.48:961][  0]LogStall: Startup complete.
+[2022.10.02-15.10.49:024][  0]LogLoad: (Engine Initialization) Total time: 182.57 seconds
+[2022.10.02-15.10.49:024][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.02-15.10.49:133][  0]LogAssetRegistry: Asset discovery search completed in 107.5056 seconds
+[2022.10.02-15.10.49:143][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.10.02-15.10.49:149][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.02-15.12.37:686][944]LogSlate: Window 'Plugins' being destroyed
+[2022.10.02-15.12.37:695][944]LogSlate: Window 'Plugins' being destroyed
+[2022.10.02-15.12.37:695][944]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.10.02-15.21.12:403][930]LogSlate: Took 0.022572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.02-15.21.12:430][930]LogSlate: Took 0.015179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.02-15.21.15:351][ 98]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.02-15.21.15:362][ 98]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.02-15.21.15:373][ 99]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.02-15.21.22:209][624]LogContentBrowser: Attempting asset rename: NewFolder -> SyntyAssets
+[2022.10.02-15.21.22:210][624]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.02-15.21.25:427][905]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.02-15.21.25:444][905]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.02-15.21.25:486][907]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.02-15.21.27:633][ 73]LogContentBrowser: Attempting asset rename: NewFolder -> City
+[2022.10.02-15.21.27:650][ 73]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.02-15.21.32:117][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/FX/P_FX_Rain.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.32:133][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/FX/P_FX_Rain_Splash.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.32:149][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/FX/P_FX_Steam.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.32:166][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Maps/Demonstration.umap'. Unknown extension 'umap'.
+[2022.10.02-15.21.32:182][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Maps/Demonstration_BuiltData.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.32:199][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Maps/Overview.umap'. Unknown extension 'umap'.
+[2022.10.02-15.21.32:216][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Maps/Overview_BuiltData.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.32:232][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_Overview_Ground.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.32:250][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Billboard.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.32:267][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_FX_Rain.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.32:282][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_FX_Steam.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.33:333][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Glass_Car_Windows.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.33:417][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Glass_Windows.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.33:434][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_skybox.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.33:449][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Skyline.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.33:466][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_01_A.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.33:482][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_01_A_Emissive.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.33:500][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_01_B.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.33:517][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_01_C.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.33:533][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_02_A.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.34:367][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_02_A_Emissive.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.34:467][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_02_B.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.34:484][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_02_C.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.34:499][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_03_A.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.34:516][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_03_A_Emissive.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.34:534][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_03_B.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.34:549][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_03_C.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.34:566][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_04_A.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.35:367][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_04_A_Emissive.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.35:483][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_04_B.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.35:500][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_04_C.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.35:516][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_Road_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.35:534][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_Road_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.35:549][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_Road_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.35:566][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Texture_Road_04.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.35:583][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Materials/Mat_PolygonCity_Water.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.36:450][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.36:583][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.36:599][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.36:616][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Corner_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.36:634][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Corner_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.36:649][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Corner_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.36:666][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Door_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.37:451][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Door_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.37:616][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Door_Corner_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.37:634][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Door_Corner_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.37:650][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.37:667][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.38:267][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.38:401][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_Corner_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.38:418][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_Corner_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.38:433][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Roof_Corner_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.38:449][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stack_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.38:466][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stack_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.38:483][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stack_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.39:252][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stairs_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.39:383][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stairs_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.39:399][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stairs_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.39:415][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stairs_Corner_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.39:434][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stairs_Planter_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.39:450][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Apartment_Stairs_Planter_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.39:466][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_CityHall_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.40:250][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Cover_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.40:367][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Cover_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.40:383][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_FireEscape_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.40:400][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_FireEscape_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.40:416][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_FireEscape_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.40:433][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOctagon_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.40:449][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOctagon_Base_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.40:466][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOctagon_Base_01_Glass.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.41:300][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOctagon_Floor_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.41:432][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOctagon_Roof_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.41:448][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Large_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.41:466][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Large_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.41:482][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Large_Base_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.41:499][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Large_Floor_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.42:166][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Large_Roof_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.42:283][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Small_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.42:299][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Small_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.42:316][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Small_Base_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.42:333][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Small_Floor_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.42:349][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeOld_Small_Roof_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.42:366][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeRound_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.42:383][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeRound_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.43:217][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeRound_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.43:350][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeRound_04.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.43:367][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeRound_Base_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.43:382][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeRound_Base_01_Glass.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.43:400][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeRound_Roof_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.43:416][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeSquare_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.43:433][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeSquare_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.44:204][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeSquare_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.44:334][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeSquare_04.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.44:351][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeSquare_Base_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.44:366][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeSquare_Base_01_Glass.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.44:384][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_OfficeSquare_Roof_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.44:400][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Roof_Access_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.44:417][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.45:183][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_01_Glass.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.45:317][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.45:333][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_02_Glass.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.45:349][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.45:365][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_03_Glass.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.45:383][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_04.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.46:051][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_04_Glass.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.46:184][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_05.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.46:200][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_05_Glass.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.46:216][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_06.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.46:233][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.46:250][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_01_Glass.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.46:266][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.47:016][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Corner_02_Glass.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.47:149][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Cover_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.47:165][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Cover_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.47:182][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Cover_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.47:198][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Cover_04.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.47:216][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Shop_Cover_05.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.47:233][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Spire_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.47:984][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Station_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.48:099][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Station_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.48:116][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Buildings/SM_Bld_Station_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.48:132][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.48:149][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Shirt_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.48:166][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.48:183][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_BusinessMan_Suit_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.48:200][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.49:033][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_BusinessWoman_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.49:183][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_City_Rig.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.49:200][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_Female_Coat.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.49:216][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_Female_Coat_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.49:233][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_Female_Jacket.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.49:250][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_Female_Jacket_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.49:934][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_Female_Police.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.50:049][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_Female_Police_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.50:065][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_Male_Hoodie.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.50:082][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_Male_Hoodie_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.50:099][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_Male_Jacket.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.50:116][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_Male_Jacket_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.50:133][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_Male_Police.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.50:149][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Characters/SK_Character_Male_Police_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.50:984][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Diagnostic_Plane_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.51:115][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Bridge_Edge_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.51:133][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Bridge_Pillar_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.51:149][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Bridge_Support_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.51:166][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Bridge_Underside_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.51:182][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Bridge_Wall_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.51:199][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Cloud_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.51:967][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Fence_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.52:100][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Fence_End_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.52:116][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Flower_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.52:133][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_GrassPath_Corner_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.52:149][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_GrassPath_Junction_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.52:166][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_GrassPath_Straight_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.52:183][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_GrassPath_T_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.52:950][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Grass_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.53:082][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Path_Corner_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.53:098][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Path_Junction_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.53:116][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Path_Straight_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.53:133][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Path_T_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.53:148][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Road_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.53:166][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Road_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.53:933][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Road_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.54:067][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Road_Arrow_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.54:083][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Road_Arrow_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.54:100][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Road_Bare_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.54:116][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Road_Crossing_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.54:132][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Road_Lines_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.54:148][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Road_Lines_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.54:917][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Road_Median_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.55:049][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Road_Median_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.55:066][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Road_ParkingLines_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.55:083][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Road_Patch_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.55:099][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Road_YellowLines_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.55:117][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Road_YellowLines_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.55:800][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.55:933][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Construction_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.55:949][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Corner_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.55:966][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Corner_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.55:983][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Dip_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.55:999][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Dip_Corner_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.56:016][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Grate_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.56:767][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Grate_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.56:899][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Gutter_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.56:915][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Merger_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.56:934][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Panel_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.56:949][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Panel_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.56:966][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Straight_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.56:984][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Sidewalk_Straight_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.57:734][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Skyline_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.57:850][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Skyline_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.57:866][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Skyline_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.57:883][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Skyline_04.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.57:900][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Street_Divider_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.57:916][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Street_Divider_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.57:933][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_SubwayEntrance_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.57:949][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_SubwayEntrance_01_Glass.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.58:784][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_SubwayEntrance_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.58:917][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Tree_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.58:933][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Tree_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.58:950][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Tree_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.58:965][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_Unreal_Water.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.58:982][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Corner_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.59:001][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Corner_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.59:766][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Pipe_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.59:899][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Rock_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.59:917][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Straight_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.59:933][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Straight_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.59:949][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Environments/SM_Env_WaterEdge_Straight_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.21.59:966][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Aircon_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.00:702][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_ATM_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.00:834][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Barrier_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.00:849][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.00:866][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Pole_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.00:882][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Roof_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.00:899][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.00:916][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.01:685][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.01:833][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_04.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.01:849][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_05.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.01:867][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_06.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.01:884][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Billboard_Sign_07.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.01:899][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Buger_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.02:567][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_BusStop_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.02:717][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_BusStop_01_Glass.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.02:733][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_CarboardBox_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.02:750][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_CarboardBox_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.02:767][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_CarboardBox_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.02:783][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_CarboardBox_04.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.03:450][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Cone_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.03:584][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Cone_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.03:601][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Couch_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.03:617][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Deckchair_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.03:634][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Door_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.03:650][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Door_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.03:668][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_HotdogStand_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.04:417][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Hydrant_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.04:551][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Beer_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.04:566][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Bottle_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.04:582][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_BowlingBall_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.04:600][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_BowlingPin_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.04:616][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Burger_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.04:634][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Coffee_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.05:384][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Donut_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.05:517][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Guitar_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.05:535][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Hotdog_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.05:549][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Icecream_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.05:571][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Lollypop_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.05:599][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Milkshake_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.06:269][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Noodles_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.06:400][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Pizza_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.06:416][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Popcorn_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.06:433][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Soda_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.06:449][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LargeSign_Taco_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.06:466][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Arm_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.06:482][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Base_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.07:302][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Base_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.07:450][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Box_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.07:466][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_CrossButton_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.07:483][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_CrossLights_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.07:500][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Lights_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.07:516][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_LightPole_Lights_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.08:234][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Light_Attachment_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.08:367][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Mailbox_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.08:383][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Manhole_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.08:400][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Manhole_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.08:416][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Newspaper_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.08:464][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Newspaper_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.09:184][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Pallet_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.09:370][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Paper_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.09:386][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Paper_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.09:602][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Paper_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.10:085][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Paper_04.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.10:233][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Paper_05.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.10:249][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_ParkBench_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.10:266][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_ParkingMeter_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.10:284][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_ParkingMeter_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.10:299][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Phones_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.11:035][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_PicnicTable_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.11:167][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Pipe_Part_Connect_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.11:184][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Pipe_Part_Corner_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.11:201][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Pipe_Part_Straight_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.11:218][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Pipe_Part_T_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.11:234][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Pipe_Present_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.11:250][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Pipe_Present_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.12:000][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Pipe_Present_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.12:134][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Pipe_Small_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.12:150][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Pipe_Small_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.12:166][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_PlanterWindow_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.12:183][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_PlanterWindow_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.12:200][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Planter_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.12:868][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Planter_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.13:036][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Police_Baton_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.13:049][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Poster_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.13:067][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Poster_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.13:086][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Poster_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.13:670][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Poster_Frame_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.13:818][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_PotPlant_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.13:849][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_PotPlant_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.13:867][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_PowerBox_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.13:883][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Power_Cables_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.14:451][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Power_Cables_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.14:883][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Power_Cables_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.14:900][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Roof_Aircon_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.14:916][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Roof_Aircon_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.14:934][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Roof_Aircon_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.14:949][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_SatDish_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.15:584][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_SecurityCamera_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.16:101][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_SecurityCamera_Arm_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.16:117][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_SecurityCamera_Head_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.16:134][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Cafe_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.16:151][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Chair_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.16:167][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Desk_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.16:767][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Desk_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.17:235][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Display_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.17:250][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Display_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.17:267][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Shelf_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.17:284][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Shelf_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.17:299][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Shelf_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.17:317][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Shelf_04.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.18:002][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_ShopInterior_Table_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.18:367][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_SidewalkPoles_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.18:383][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_SidewalkPoles_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.18:400][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sidewalk_Panel_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.18:417][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sidewalk_Panel_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.18:434][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sidewalk_Panel_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.19:001][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sidewalk_Panel_04.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.19:468][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sidewalk_Panel_05.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.19:484][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Arrow_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.19:500][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Attachment_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.19:518][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Attachment_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.19:533][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Attachment_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.19:550][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Barber_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.20:217][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Bar_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.20:434][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_BusStop_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.20:586][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Cafe_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.20:603][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Chinese_Noodles_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.20:637][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_DeliPizza_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.21:150][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Entrance_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.21:534][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_FireDepartment_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.21:549][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_GiveWay_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.21:567][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_GiveWay_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.21:583][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_GiveWay_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.21:599][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Hospital_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.21:616][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Hotel_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.22:319][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Parking_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.22:489][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Pizza_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.22:517][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Police_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.22:534][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Pub_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.22:967][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Stop_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.23:334][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Street_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.23:349][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Street_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.23:366][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_Warning_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.23:383][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Sign_XXX_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.23:399][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Skip_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.23:416][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Skip_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.24:168][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Skylight_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.24:284][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Skylight_01_Glass.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.24:299][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_SmartPhone_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.24:316][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Soda_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.24:333][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Soda_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.24:349][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Soda_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.24:368][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Table_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.24:383][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_TrafficLight_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.25:202][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_TrafficLight_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.25:317][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_TrafficLight_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.25:333][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_TrashBag_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.25:351][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_TrashBag_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.25:368][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_TrashBag_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.25:383][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Trashbin_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.25:401][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Trashbin_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.25:417][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_TrashCan_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.26:269][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_TrashCan_Lid_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.26:418][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Umbrella_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.26:435][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Vents_Corner_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.26:451][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Vents_Corner_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.26:467][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Vents_End_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.26:484][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Vents_Exhaust_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.27:187][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Vents_Straight_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.27:318][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Vents_Transition_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.27:334][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Vents_Wide_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.27:350][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Washingline_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.27:367][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Washingline_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.27:383][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Washingline_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.27:400][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Washingline_04.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.28:152][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Water_Tower_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.28:302][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Props/SM_Prop_Window_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.28:318][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Ambo_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.28:335][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Ambo_01_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.28:350][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Ambo_01_Skeleton.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.28:368][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Medium_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.29:085][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Medium_01_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.29:219][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Medium_01_Skeleton.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.29:250][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Muscle_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.29:268][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Muscle_01_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.29:284][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Muscle_01_Skeleton.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.29:302][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Police_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.30:052][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Police_01_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.30:219][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Police_01_Skeleton.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.30:235][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Sedan_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.30:250][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Sedan_01_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.30:267][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Sedan_01_Skeleton.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.30:905][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Small_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.31:034][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Small_01_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.31:051][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Small_01_Skeleton.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.31:069][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Taxi_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.31:099][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Taxi_01_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.31:117][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Taxi_01_Skeleton.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.31:803][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Van_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.31:935][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Van_01_PhysicsAsset.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.31:950][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Meshes/Vehicles_Rigged/SK_Veh_Car_Van_01_Skeleton.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.31:968][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_BillboardAds.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.31:985][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Emissive_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.32:001][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Emissive_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.32:018][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Emissive_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.32:787][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Emissive_04.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.32:953][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Emissive_05.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.32:985][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Road_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.33:001][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Road_02.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.33:517][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Road_03.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.33:901][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Road_04.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.33:918][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Road_Normal.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.33:935][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_01_A.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.33:951][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_01_B.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.33:968][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_01_C.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.33:985][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_02_A.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.34:686][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_02_B.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.34:902][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_02_C.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.35:069][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_03_A.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.35:101][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_03_B.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.35:119][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_03_C.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.35:671][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_04_A.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.36:103][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_04_B.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.36:137][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_04_C.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.36:319][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_Metallic.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.36:335][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_Normal_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.36:351][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_Roughness.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.37:002][321]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content/PolygonCity/Textures/T_PolygonCity_Texture_Skyline.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.22.51:427][443]LogAssetTools: Warning: Failed to import 'D:\Assets\Models\POLYGON_City_SyntyStudios\Content\PolygonCity\Meshes\Buildings\SM_Bld_Apartment_01.uasset'. Unknown extension 'uasset'.
+[2022.10.02-15.23.32:623][488]LogLinker: Warning: [AssetLog] D:\GameJams\LD51\LD51\Content\SyntyAssets\City\SM_Bld_Apartment_01.uasset: Failed to load '/Game/PolygonCity/Materials/Mat_PolygonCity_Texture_01_A': Can't find file.
+[2022.10.02-15.23.32:624][488]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/PolygonCity/Materials/Mat_PolygonCity_Texture_01_A'
+[2022.10.02-15.23.32:625][488]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/SyntyAssets/City/SM_Bld_Apartment_01.SM_Bld_Apartment_01
+[2022.10.02-15.23.32:644][488]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SyntyAssets/City/SM_Bld_Apartment_01) ...
+[2022.10.02-15.23.32:796][488]LogStaticMesh: Display: Building static mesh SM_Bld_Apartment_01...
+[2022.10.02-15.23.32:796][488]LogStaticMesh: Built static mesh [0.01s] /Game/SyntyAssets/City/SM_Bld_Apartment_01.SM_Bld_Apartment_01
+[2022.10.02-15.23.32:811][488]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.02-15.23.32:941][488]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
